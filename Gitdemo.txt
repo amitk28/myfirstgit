@@ -1,3 +1,4 @@
 The git txt file sample
 Second line
 Third line
+fourth line amend
